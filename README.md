@@ -1,3 +1,6 @@
+# Other Languages
+To see this article in PT-BR, please see [PT-BR](README-PT-BR.md)
+
 # PyBambooHR
 
 [![Build Status](https://secure.travis-ci.org/smeggingsmegger/PyBambooHR.png)](https://travis-ci.org/smeggingsmegger/PyBambooHR)&nbsp;&nbsp;&nbsp;![Download Stats](https://pypip.in/download/PyBambooHR/badge.svg)
