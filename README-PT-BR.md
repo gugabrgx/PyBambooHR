@@ -2,7 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/smeggingsmegger/PyBambooHR.png)](https://travis-ci.org/smeggingsmegger/PyBambooHR)&nbsp;&nbsp;&nbsp;![Download Stats](https://pypip.in/download/PyBambooHR/badge.svg)
 
-Esta é uma versão API não oficial do Python para o Bamboo HR. Até agora, ela está focada no gerenciamento de informações de funcionários, mas você pode fazer praticamente tudo o que quiser com um pouco de python. 
+Esta é uma API não oficial do Python para o Bamboo HR. Até agora, ela está focada no gerenciamento de informações de funcionários, mas você pode fazer praticamente tudo o que quiser com um pouco de python. 
 
 Essa biblioteca faz uso da biblioteca [requests](http://docs.python-requests.org/en/latest/) do Python e [HTTPretty](https://github.com/gabrielfalcao/HTTPretty) para testes. Um enorme obrigado a ambos os excelentes projetos.
 
